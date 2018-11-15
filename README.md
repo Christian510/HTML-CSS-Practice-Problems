@@ -54,13 +54,13 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 1
 
-* Open `level-2/index.html` && `level-2/step-1.css` && `level-1/step-1.jpg`.
-* Locate the element with the class of `menu`, `logo` and `sign-in`.
-  * Assign a display that will allow these elements to appear on the same line.
-* Locate the element with the class of `menu`.
-  * Assign a position, left, and top.
-* Locate the element with the class of `sign-in`.
-  * Assign a position, right, and top.
++* Open `level-2/index.html` && `level-2/step-1.css` && `level-1/step-1.jpg`.
++* Locate the element with the class of `menu`, `logo` and `sign-in`.
++  * Assign a display that will allow these elements to appear on the same line.
++* Locate the element with the class of `menu`.
++  * Assign a position, left, and top.
++* Locate the element with the class of `sign-in`.
++  * Assign a position, right, and top.
 
 ## Step 2
 
