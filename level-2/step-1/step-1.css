@@ -47,4 +47,13 @@
     height: 60px;
     left: 22%;
     background: #536A63;
+    /* display and margin work together  */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/display */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* position and bottom work together */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/bottom */
+    position: absolute;
+    bottom: -30px;
 }
