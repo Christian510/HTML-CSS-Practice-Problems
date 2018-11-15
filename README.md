@@ -64,15 +64,15 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 2
 
-* Open `level-2/index.html` && `level-2/step-2.css` && `level-2/step-2.jgp`.
-* Locate the element with the class of `main-bottom-section`.
-  * Add a text-align.
-* Locate the element with the class of `item`.
-  * Add a width, height, and display.
-* Locate the element with the class of `full-width-item`.
-  * Add a width, height, and margin.
-* Locate the element with the class of `large-item`.
-  * Add a width, height, and margin.
++* Open `level-2/index.html` && `level-2/step-2.css` && `level-2/step-2.jgp`.
++* Locate the element with the class of `main-bottom-section`.
++  * Add a text-align.
++* Locate the element with the class of `item`.
++  * Add a width, height, and display.
++* Locate the element with the class of `full-width-item`.
++  * Add a width, height, and margin.
++* Locate the element with the class of `large-item`.
++  * Add a width, height, and margin.
 
 # Level 3
 
