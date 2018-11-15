@@ -38,9 +38,9 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 3
 
-* Open `level-1/index.html` && `level-1/step-3.css` && `level-1/step-3.jpg`.
-* Locate the element with the class of `content-mid`.
-  * Add padding of 80 pixels on the top, left, right, and bottom.
++* Open `level-1/index.html` && `level-1/step-3.css` && `level-1/step-3.jpg`.
++* Locate the element with the class of `content-mid`.
++  * Add padding of 80 pixels on the top, left, right, and bottom.
 * Locate the element with the class of `content-mid-header`.
   * Assign a width and height.
 * Locate the element with the class of `content-container`.

@@ -1,13 +1,13 @@
 /* Step-2 You can assign padding to all sides of a container by using the padding property. */
 
 .content-left {
-    padding: 20, 20;
+    padding: 20px;
 }
 
 /* Step 2 You can assign padding to all sides of a container by using the padding property. */
 
 .header {
-  padding: 20, 20;
+  padding: 20px;
 }
 
 
@@ -32,8 +32,8 @@
 
 .logo-container {
     background: #4F4949;
-    width: 282px;
     height: 60px;
+    width: 282px;
     float: left;
 }
 
