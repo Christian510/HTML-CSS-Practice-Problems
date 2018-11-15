@@ -13,28 +13,28 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 ## Step 1
 
 * Open `level-1/index.html` && `level-1/step-1.css` && `level-1/step-1.jpg`.
-* Locate the element with the class of `content-left`.
-  * Position this element to the left side of the screen.
-* Locate the element with the class of `content-mid`.
-  * Position this element to appear just to the right of `content-left` and take up the remaining space.
-* Locate the element with the class of `footer`.
-  * Position this element to appear at the bottom of the page.
++ * Locate the element with the class of `content-left`.
++ * Position this element to the left side of the screen.
++ * Locate the element with the class of `content-mid`.
++ * Position this element to appear just to the right of `content-left` and take up the remaining space.
++ * Locate the element with the class of `footer`.
++ * Position this element to appear at the bottom of the page.
 
 ## Step 2
 
-* Open `level-1/index.html` && `level-1/step-2.css` && `level-1/step-2.jpg`.
-* Locate the element with the class of `content-left`.
-  * Add padding of 20 pixels on the top, left, right, and bottom.
-* Locate the element with the class of `header`.
-  * Add padding of 20 pixels on the top, left, right, and bottom.
-* Locate the element with the class of `profile-image-container`.
-  * Assign a width, height, and margin-bottom.
-* Locate the element with the class of `profile-links-container`.
-  * Assign a width and height.
-* Locate the element with the class of `logo-container`.
-  * Assign a width, height, and float.
-* Locate the element with the class of `menu-container`.
-  * Assign a width, height, and float.
+ * Open `level-1/index.html` && `level-1/step-2.css` && `level-1/step-2.jpg`.
++* Locate the element with the class of `content-left`.
++  * Add padding of 20 pixels on the top, left, right, and bottom.
++* Locate the element with the class of `header`.
++  * Add padding of 20 pixels on the top, left, right, and bottom.
++* Locate the element with the class of `profile-image-container`.
++  * Assign a width, height, and margin-bottom.
++* Locate the element with the class of `profile-links-container`.
++  * Assign a width and height.
++* Locate the element with the class of `logo-container`.
++  * Assign a width, height, and float.
++* Locate the element with the class of `menu-container`.
++  * Assign a width, height, and float.
 
 ## Step 3
 
