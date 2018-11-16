@@ -92,18 +92,18 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 2
 
-* Locate the element with the class of `item-image` and alt of `tops`.
-  * Link the src path to `level-3/img/Tops.png`.
-* Locate the element with the class of `item-image` and alt of `bottoms`.
-  * Link the src path to `level-3/img/bottoms.png`.
-* Locate the element with the class of `item-image` and alt of `accessories`.
-  * Link the src path to `level-3/img/accessories.png`.
-* Locate the element with the class of `item-image` and alt of `collection`.
-  * Link the src path to `level-3/img/collection.png`.
-* Locate the element with the class of `item-image` and alt of `kicks`.
-  * Link the src path to `level-3/img/kicks.png`.
-* Locate the element with the class of `item-image` and alt of `hats`.
-  * Link the src path to `level-3/img/hats.png`
++* Locate the element with the class of `item-image` and alt of `tops`.
++  * Link the src path to `level-3/img/Tops.png`.
++* Locate the element with the class of `item-image` and alt of `bottoms`.
++  * Link the src path to `level-3/img/bottoms.png`.
++* Locate the element with the class of `item-image` and alt of `accessories`.
++  * Link the src path to `level-3/img/accessories.png`.
++* Locate the element with the class of `item-image` and alt of `collection`.
++  * Link the src path to `level-3/img/collection.png`.
++* Locate the element with the class of `item-image` and alt of `kicks`.
++  * Link the src path to `level-3/img/kicks.png`.
++* Locate the element with the class of `item-image` and alt of `hats`.
++  * Link the src path to `level-3/img/hats.png`
 
 ## Contributions
 
