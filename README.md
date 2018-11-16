@@ -78,17 +78,17 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 1
 
-* Open `level-3/index.html` && `level-3/step-1.css` && `level-3/step-1.css`.
-* Locate the element with the class of `main-top-section`.
-  * Add a background color of `#F2EFE5`.
-* Locate the element with the class of `menu-icon`.
-  * Link the src path to `level-3/img/icons/MENU`.
-* Locate the element with the class of `logo-icon`.
-  * Link the src path to `level-3/img/icons/dev-shop`.
-* Locate the element with the class of `sign-in`.
-  * Link the src path to `level-3/img/icons/Sign_In`.
-* Locate the element with the class of `shop-icon`.
-  * Link the src path to `level-3/img/icons/Shop_Deals`.
++* Open `level-3/index.html` && `level-3/step-1.css` && `level-3/step-1.css`.
++* Locate the element with the class of `main-top-section`.
++  * Add a background color of `#F2EFE5`.
++* Locate the element with the class of `menu-icon`.
++  * Link the src path to `level-3/img/icons/MENU`.
++* Locate the element with the class of `logo-icon`.
++  * Link the src path to `level-3/img/icons/dev-shop`.
++* Locate the element with the class of `sign-in`.
++  * Link the src path to `level-3/img/icons/Sign_In`.
++* Locate the element with the class of `shop-icon`.
++  * Link the src path to `level-3/img/icons/Shop_Deals`.
 
 ## Step 2
 
